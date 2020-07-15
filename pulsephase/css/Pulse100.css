@@ -1,0 +1,54 @@
+html{
+	font-family:Arial;
+	background:rgba(0,0,0);
+}
+h1{
+font-size:1.4em;
+color:rgb(49,215,163);
+-webkit-box-shadow: 0px 0px 5px 0px rgba(49,215,215,0.56);
+-moz-box-shadow: 0px 0px 5px 0px rgba(49,215,215,0.56);
+box-shadow: 0px 0px 5px 0px rgba(49,215,215,0.56);
+}
+h2{
+text-align:center;
+font-size:1em;
+color:rgb(49,215,163);
+}
+h3{
+font-size:1.2em;
+color:rgb(49,215,215);
+}
+h4{
+	text-align:center;
+font-size:1em;
+color:rgb(49,215,163);
+}
+h5{
+	font-size:0.5em;
+	color:rgb(249,59,254);
+}
+.searchB{
+	 font-weight:800; background:#000; color:#fff; font-size:1.2em; height:2.8em;
+}
+.sovereignSearch{
+	width:70%;
+	margin-left:15%;
+	text-align:center;
+	height:1.8em;
+	font-size:1.2em;
+	border-bottom:rgb(49,215,163) 2px solid; 
+	border-right:rgb(49,215,163) 0px solid; 
+	border-top:rgb(49,215,163) 2px solid; 
+	border-left:rgb(49,215,163) 0px solid; 
+	border-radius:5%;
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.56);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.56);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.56);
+background:rgb(254,254,254);
+}
+.playF{
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(49,215,215,0.56);
+-moz-box-shadow: 0px 0px 5px 0px rgba(49,215,215,0.56);
+box-shadow: 0px 0px 5px 0px rgba(49,215,215,0.56);
+background:rgb(254,254,254);
+}
